@@ -1,0 +1,9 @@
+com\user\registration\service\UserDetailService.class
+com\user\registration\model\UserLogin.class
+com\user\registration\controller\UserDetailsController.class
+com\user\registration\dao\UserDetailsRepo.class
+com\user\registration\model\UserContact.class
+com\user\registration\dao\UserContactRepo.class
+com\user\registration\model\UserDetails.class
+com\user\registration\service\UserDetailServiceImpl.class
+com\user\registration\UserRegistrationApplication.class
